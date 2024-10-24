@@ -14,7 +14,7 @@ namespace TemplateMethodAndStrategyPattern
             int[] result = new int[size];
             for (int i = 0; i < size; i++)
             {
-                result[i] = random.Next();
+                result[i] = random.Next(1, 100);
             }
             return result;
         }

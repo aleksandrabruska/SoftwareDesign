@@ -27,6 +27,19 @@ class MainClass
         IGenerator gen4 = new FewUniqueGenerator();
         result = gen4.generate(25, 1234);
         display(result);
+
+
+        Console.WriteLine("\n\n");
+
+        Sorter bs = new BubbleSort();
+        bs.SetGenerator(gen1);
+        int[] bubleSortResult = bs.PerformSort();
+        display(bubleSortResult);
+
+        Sorter iS = new InsertionSort();
+        iS.SetGenerator(gen1);
+        int[] insertionSortResult = iS.PerformSort();
+        display(insertionSortResult);
     }
 
     
