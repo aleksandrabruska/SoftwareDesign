@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelLoops", "ParallelLoops\ParallelLoops.csproj", "{81695C69-AA03-4053-BEA8-9A5EA7AFB44D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81695C69-AA03-4053-BEA8-9A5EA7AFB44D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81695C69-AA03-4053-BEA8-9A5EA7AFB44D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81695C69-AA03-4053-BEA8-9A5EA7AFB44D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81695C69-AA03-4053-BEA8-9A5EA7AFB44D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4DC3C77-AD15-42C2-9566-7B73DD1DACF7}
+	EndGlobalSection
+EndGlobal
