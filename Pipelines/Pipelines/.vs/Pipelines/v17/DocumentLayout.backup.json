@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|c:\\users\\olab0\\onedrive\\pulpit\\aarhus\\software design\\repo\\softwaredesign\\pipelines\\pipelines\\pipelines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|solutionrelative:pipelines\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|c:\\users\\olab0\\onedrive\\pulpit\\aarhus\\software design\\repo\\softwaredesign\\pipelines\\pipelines\\pipelines\\pipelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|solutionrelative:pipelines\\pipelines.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|c:\\users\\olab0\\onedrive\\pulpit\\aarhus\\software design\\repo\\softwaredesign\\pipelines\\pipelines\\pipelines\\sequential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C327C19B-08D8-4A75-9547-26AE022E54A3}|Pipelines\\Pipelines.csproj|solutionrelative:pipelines\\sequential.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pipelines.cs",
+              "DocumentMoniker": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Pipelines.cs",
+              "RelativeDocumentMoniker": "Pipelines\\Pipelines.cs",
+              "ToolTip": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Pipelines.cs",
+              "RelativeToolTip": "Pipelines\\Pipelines.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAArwCMAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:59:04.568Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Sequential.cs",
+              "DocumentMoniker": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Sequential.cs",
+              "RelativeDocumentMoniker": "Pipelines\\Sequential.cs",
+              "ToolTip": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Sequential.cs",
+              "RelativeToolTip": "Pipelines\\Sequential.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA1wCkAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:50:22.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Program.cs",
+              "RelativeDocumentMoniker": "Pipelines\\Program.cs",
+              "ToolTip": "C:\\Users\\olab0\\OneDrive\\Pulpit\\aarhus\\Software Design\\repo\\SoftwareDesign\\Pipelines\\Pipelines\\Pipelines\\Program.cs*",
+              "RelativeToolTip": "Pipelines\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T07:48:51.09Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
